@@ -1,5 +1,6 @@
 jQuery(document).ready(function () {
 
+  // jQuery("#outerSelect").chosen();
   var employeesObj;
   var animalsObj;
 
@@ -30,6 +31,7 @@ jQuery(document).ready(function () {
       jQuery("#dropdown1").css("display", "block");
     }else{
       jQuery("#dropdown1").css("display", "none");
+      jQuery("#text").css("display", "none");
     }
     jQuery("#dropdown1").html(returnString);
   });
