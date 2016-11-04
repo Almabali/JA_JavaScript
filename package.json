@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Almabali/JA_JavaScript/issues"
   },
-  "homepage": "https://github.com/Almabali/JA_JavaScript#readme"
+  "homepage": "https://github.com/Almabali/JA_JavaScript#readme",
+  "dependencies": {
+    "datatables": "^1.10.12",
+    "jqueryui": "^1.11.1"
+  }
 }
