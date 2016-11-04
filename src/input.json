@@ -3,5 +3,11 @@
     {"firstName":"John", "lastName":"Doe"},
     {"firstName":"Anna",	"lastName":"Smith"},
     {"firstName":"Peter", "lastName":"Jones"}
+  ],
+  "animals":[
+    {"firstName":"Bubuka", "lastName":"D1oe"},
+    {"firstName":"Blöki",	"lastName":"Sm2ith"},
+    {"firstName":"Cicus", "lastName":"Jone3s"}
   ]
+
 }
